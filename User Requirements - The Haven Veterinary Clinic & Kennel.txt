@@ -1,0 +1,37 @@
+
+
+The Haven Veterinary Clinic & Kennel provides veterinary and kennel services for dogs and cats. They currently keep records using a combination of physical paper & folders and electronic spreadsheets. This is causing some issues and would like your assistance in designing a database to improve The Haven's data management.
+
+The Haven Management System
+
+All animals being attended to by a vet must be registered with the clinic. To do this, owners are given a form to fill out the pertinent details which will include their name and contact details along with the name of the animal, approximate date of birth, type of animal and breed (if known). Any known allergies or previous medical issues must also be indicated. Once the form is returned to the Admin Assistant (AA), the details are filed.
+
+The Haven has multiple vets and veterinary assistants on staff. When a vet is ready to see an animal, the receptionist will show the owner and animal to the examination room and hand the animal's file to the vet for use. Once the animal has been seen, the vet will update the file with the relevant details (date of visit, outcome, medications (if any), notes - the vet's name must also be recorded as having attended to the animal). When completed, the vet will notify the receptionist and she will bring in the next owner and animal with their folder, collecting the previous animal's folder.
+
+Once collected, the AA will calculate the bill, record payment and make an appointment for a subsequent visit, if one is required. The animal's updated records are then filed away until their next visit.
+
+Kennel Services
+
+This provides room and board to two types of animals:
+1) those who are sick and under observation/care
+2) those whose owners need assistance in caring for their pet while they are travelling, etc...
+
+All animals staying at the kennel must be registered, if not already registered through the clinic or a previous stay. Care records are kept for all of the animals residing in the kennels. These records will include date stay commenced, expected length of stay, date of departure, any special arrangements for care (food, medications, behavioural issues, etc...)
+
+Owners must make a deposit payment for kennel stays. At the end of the animal's stay, the remainder of the bill is calculated and payment is recorded.
+
+Additional Information
+
+There are occasions where a search through the files needs to be done to determine things like:
+
+How many animals a particular vet has seen during a particular time period?
+How many of a particular type or breed of animal is registered with the clinic and/or kennel?
+What animals belong to a particular owner?
+These searches and others like them are tedious and time-consuming.
+
+
+The Haven wants to modernize their management and reduce some of the issues arising from all the paperwork, inconsistencies in registration, record management and difficulties in retrieving information. They want to create a cohesive electronic system which will store information and related animal/owner details. This system will also be used to generate reports on registrations, visits and payments collected. 
+
+Admin users will be able to log in, register new animals and modify records for existing ones. Owners will also be able to register their animal electronically.
+
+Your task is to design the data storage aspect of this new system.
